@@ -1,2 +1,2 @@
 # uhost
-Minimalist Arduino host design
+Minimalist Arduino host design v1.2
